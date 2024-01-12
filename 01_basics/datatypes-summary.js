@@ -15,6 +15,13 @@ console.log( id === anotherId);
 // Referene ( Non-Primitive )
 //  Array,Objects, Functions
 
+const heros = ["Superman","Thor","Marvel"]
+
+let myObj={
+    name:"Mursaleen",
+    age:22,
+}
+
 const bigNumber = 32145457266421n
 
 
