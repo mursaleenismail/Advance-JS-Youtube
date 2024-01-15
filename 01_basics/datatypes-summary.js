@@ -30,3 +30,29 @@ const myFunction = function (){
 }
 
 console.log( typeof score );
+
+//++++++++++++++++++++++++++++++++++++++\\
+
+let myYoutubeName= "Morrowdotcom"
+
+let anotherName= myYoutubeName
+anotherName="Chai aur Code"
+
+console.log(anotherName);
+console.log(myYoutubeName);
+
+let userOne={
+    email:"usergoogle.com",
+    upi:"user@ybl"
+}
+let userTwo = userOne
+
+
+// userTwo.email = "mursaleen@google.com"
+userTwo.upi = "user@mcb"
+
+// console.log(userOne.email);
+// console.log(userTwo.email);
+
+console.log(userOne.upi);
+console.log(userTwo.upi);
