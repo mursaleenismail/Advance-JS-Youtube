@@ -11,16 +11,16 @@ let myDate = new Date ()
 
 // let myCreatedDate = new Date (2024,0,30)
 let myCreatedDate = new Date (2023,0,23 ,5,3)
-// console.log(myCreatedDate.toLocaleString()); 
+console.log(myCreatedDate.toLocaleString()); 
 
 // let  myCreateDate = new Date( "01-14-2023" )
 // console.log(myCreateDate.toLocaleString()); 
 
-//
-let myTimeStamp = Date.now()
-console.log(myTimeStamp);
-console.log(myCreatedDate.getTime());
-console.log  (Date.now());
+
+// let myTimeStamp = Date.now()
+// console.log(myTimeStamp);
+// console.log(myCreateDate.getTime());
+// console.log  (Date.now()/1000);
 // console.log  (Math.floor(Date.now()/1000));
 
 // let newDate =new Date()
