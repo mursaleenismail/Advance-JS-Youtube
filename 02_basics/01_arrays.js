@@ -1,5 +1,5 @@
 // array 
-const myArr = [ 0,1,2,3,4,5]
+const myArr = [ 0,1,2,3,4,5,6,7,8,9]
 const myHeros= ["SpiderMan","SuperMan","Batman"] 
 
 const myArr2= new Array(1,2,3,4)
